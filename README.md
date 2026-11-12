@@ -1,6 +1,5 @@
+This is my Python language learning repository which I learned at my own from FreeCodeCamp to buildup my Core Python Skills and it is also part of my Python work at time of my Bachelors of Artificial Intelligence.
 
-<p align="center">
-  <img src="./karim_bux_cybersecurity_animated.gif"
-       alt="Karim Bux | AI Student | CyberSecurity Learner"
-       width="100%">
-</p>
+Author: Karim Bux Junejo.
+My Email: kbux7790@gmail.com
+My LinkedIn: https://www.linkedin.com/in/kbux10
